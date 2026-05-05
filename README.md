@@ -11,7 +11,7 @@ The dataset was cleaned to ensure accuracy, consistency, and suitability for ana
 - Checked for negative and unrealistic values 
 - Calculated Profit_Margin to evaluate profitability
 - Month: A Month column was extracted from the Order Date to enable monthly trend analysis and time-based visualizations.
- -Year: A Year column was created to support yearly comparisons and filtering in the dashboard.
- -Profit Margin: A Profit Margin column was calculated to evaluate the efficiency and profitability of products and regions. This metric helps identify how much profit is generated per unit of sales and is essential for financial performance analysis.
+-Year: A Year column was created to support yearly comparisons and filtering in the dashboard.
+-Profit Margin: A Profit Margin column was calculated to evaluate the efficiency and profitability of products and regions. This metric helps identify how much profit is generated per unit of sales and is essential for financial performance analysis.
 
 These additional features improved the ability to analyze trends, compare performance, and generate meaningful business insights.
