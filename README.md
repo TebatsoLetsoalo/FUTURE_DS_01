@@ -18,7 +18,7 @@ By leveraging data analytics and visualization tools, this project aims to provi
 
 -Microsoft Power BI
 
-Data Cleaning
+## Data Cleaning
 
 The dataset was cleaned to ensure accuracy, consistency, and suitability for analysis.
 - Checked for duplicate rows to avoid double counting
