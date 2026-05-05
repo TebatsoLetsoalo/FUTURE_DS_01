@@ -1,5 +1,9 @@
 # FUTURE_DS_01
 Focused business sales performance analytics
+
+## Dashboard link
+View interactive dashboard https://app.powerbi.com/links/3BLIWod-If?ctid=ea1a909b-6600-4a25-82a5-0c6ed7d0513b&pbi_source=linkShare
+
 ## Project Overview
 
 This project focuses on analyzing business sales performance using transactional sales data. The objective is to identify key trends and insights that can support data-driven decision-making.
